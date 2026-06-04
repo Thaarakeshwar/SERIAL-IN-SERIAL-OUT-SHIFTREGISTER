@@ -32,12 +32,10 @@ Generate the RTL schematic and timing diagram.
 Simulate the design to verify the serial shift operation.
 ```
 **PROGRAM**
-
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
-
 ```
-Developed by:B.SAM JOEL JOSHUA
-RegisterNumber:212225230242
+Program for flipflops and verify its truth table in quartus using Verilog programming.
+Developed by: Thaarakeshwar
+RegisterNumber:212225040466
 ```
 ```
 module exp10(clk, sin, q);
